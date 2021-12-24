@@ -6,6 +6,10 @@ function uniceflink(){
     window.open("https://zoom.us/j/8584914526");
 }
 
+function unicef2link(){
+    window.open("https://zoom.us/j/8646195818");
+}
+
 function uncstdlink(){
     window.open("https://zoom.us/j/2185457590");
 }
