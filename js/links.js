@@ -39,7 +39,7 @@ function drivelink(){
 }
 
 function padletlink(){
-    window.open("about:blank");
+    window.open("https://padlet.com/baharelifbl/uy3kv8cz8wwpyuykk");
 }
 
 function netflixlink1(){
